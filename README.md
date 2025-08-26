@@ -37,10 +37,6 @@
   <a href="mailto:ramrakha@oregonstate.edu" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="OSU Email" height="30" width="40" />
   </a>
-
-  <a href="tel:+15412862203" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Phone" height="30" width="40" />
-  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Ashish-Ramrakhiani/Ashish-Ramrakhiani/output/snake.svg" alt="Snake animation" />
