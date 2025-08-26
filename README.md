@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashish-Ramrakhiani&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-ramrakhiani" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashish-Ramrakhiani&cache_bust=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [FaaSr – a multi-cloud serverless framework](https://github.com/FaaSr/FaaSr-Backend)
 
