@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **Full-stack development, Cloud & Serverless,SAP and React**
 
-- 📫 How to reach me **ramrakhiyaniashish@gmail.com**
+- 📫 How to reach me **ramrakhiyaniashish@gmail.com** , **ramrakha@oregonstate.edu**, **+541-286-2203**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/191mLav1bgkk6mWYjY12QbLCZ-qd4wVeX/view](https://drive.google.com/file/d/191mLav1bgkk6mWYjY12QbLCZ-qd4wVeX/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/191mLav1bgkk6mWYjY12QbLCZ-qd4wVeX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
