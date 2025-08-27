@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ramrakhiyaniashish@gmail.com** , **ramrakha@oregonstate.edu**, **+541-286-2203**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/191mLav1bgkk6mWYjY12QbLCZ-qd4wVeX/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13NlZfvBvlOV6FLcwDu9TLS-EEEhdfUiY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
